@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogikauza.github.io/dGF/sitemap_index.txt
+Sitemap: https://ogikauza.github.io/eqp/sitemap_index.txt
+Sitemap: https://ogikauza.github.io/qGF/sitemap_index.txt
+Sitemap: https://ogikauza.github.io/upZ/sitemap_index.txt
